@@ -1,0 +1,545 @@
+{
+ "key": "b06576b7",
+ "stars": 8,
+ "contributions": 1162,
+ "repos": 26,
+ "followers": 2,
+ "languages": [
+  [
+   "C",
+   99868357
+  ],
+  [
+   "Rust",
+   15908152
+  ],
+  [
+   "C++",
+   14350291
+  ],
+  [
+   "TypeScript",
+   6834686
+  ],
+  [
+   "Python",
+   2737150
+  ],
+  [
+   "CSS",
+   1671001
+  ],
+  [
+   "Roff",
+   1438730
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 151,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 112,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 38,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 14,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 80,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 36,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 63,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 68,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 31,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 20,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 18,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 30,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 42,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 99,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 138,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 32,
+    "day": 19,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 31,
+  "longest": 31
+ },
+ "pins": [
+  {
+   "name": "hi-derola",
+   "url": "https://github.com/mel0k1/hi-derola",
+   "text": "A high-performance, lightweight terminal chat and autonomous coding assistant written in pure Rust. Engineered for zero-dependency in-memory management, low context overhead, and deep ecosystem integration via custom plugins and MCP.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "ai-agent",
+    "ai-agents",
+    "coding-assistant",
+    "llm-client",
+    "low-overhead",
+    "mcp",
+    "model-context-protocol",
+    "performance",
+    "rust",
+    "terminal"
+   ]
+  },
+  {
+   "name": "Sputnik-AI",
+   "url": "https://github.com/mel0k1/Sputnik-AI",
+   "text": "Tiny LLM: linear attention + RWKV/Mamba, micro-expert MoE with adaptive router, morphology-aware Russian tokenizer",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Coonix",
+   "url": "https://github.com/mel0k1/Coonix",
+   "text": "x86_64 hobby OS built for glibc. Mascot: raccoon (enot). Limine + C kernel + ring3 shell.",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "NiriGNU",
+   "url": "https://github.com/mel0k1/NiriGNU",
+   "text": "GNU Mach microkernel - study & bugfix playground (upstream: gitlab.com/hurd/gnumach)",
+   "fork": false,
+   "stars": 1,
+   "language": "C",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "wlibc",
+   "url": "https://github.com/mel0k1/wlibc",
+   "text": "Portable C standard library for x86_64 Linux, inspired by musl, mlibc and glibc. Static, freestanding, with math from fdlibm.",
+   "fork": false,
+   "stars": 3,
+   "language": "C",
+   "topics": [
+    "c",
+    "freestanding",
+    "libc",
+    "linux",
+    "musl",
+    "systems-programming",
+    "x86-64",
+    "pthreads",
+    "stdio",
+    "fdlibm"
+   ]
+  },
+  {
+   "name": "NiriGNU",
+   "url": "https://github.com/mel0k1/NiriGNU",
+   "text": "GNU Mach microkernel - study & bugfix playground (upstream: gitlab.com/hurd/gnumach)",
+   "fork": false,
+   "stars": 1,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "SeaBSD",
+   "url": "https://github.com/mel0k1/SeaBSD",
+   "text": "SeaBSD - a user-first desktop operating system based on FreeBSD: hardware that just works, best-in-class Linux app compatibility (linuxolator), resilient sandboxes.",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": [
+    "bsd",
+    "desktop",
+    "freebsd",
+    "hardware-support",
+    "linux-compatibility",
+    "linuxulator",
+    "operating-system",
+    "zfs"
+   ]
+  },
+  {
+   "name": "glm-os",
+   "url": "https://github.com/mel0k1/glm-os",
+   "text": "GLM OS — a 64-bit operating system written from scratch in pure Rust (no_std): Limine bootloader, own GDT/IDT, heap allocator, FAT32, shell. v0.2: own page tables, ring 3 userspace, ELF loader.",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "epkg-tool",
+   "url": "https://github.com/mel0k1/epkg-tool",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "epkg-packets",
+   "url": "https://github.com/mel0k1/epkg-packets",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Standard ML",
+   "topics": []
+  },
+  {
+   "name": "mel0k1",
+   "url": "https://github.com/mel0k1/mel0k1",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "OpenEFI",
+   "url": "https://github.com/mel0k1/OpenEFI",
+   "text": "⚡ Генератор EFI для хакинтоша: скан железа, подбор кекстов, SMBIOS и серийники. Rust + Tauri 2 + React + shadcn/ui",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "efi",
+    "hackintosh",
+    "kexts",
+    "opcore-simplify",
+    "opencore",
+    "react",
+    "rust",
+    "shadcn",
+    "smbios",
+    "tauri"
+   ]
+  },
+  {
+   "name": "ioni-os",
+   "url": "https://github.com/mel0k1/ioni-os",
+   "text": "Ioni — an operating system built on the XNU kernel (Mach + BSD) · ОС на ядре XNU",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": [
+    "arm64",
+    "bsd",
+    "darwin",
+    "kernel",
+    "mach",
+    "operating-system",
+    "osdev",
+    "unix",
+    "x86-64",
+    "xnu"
+   ]
+  },
+  {
+   "name": "KiPaint",
+   "url": "https://github.com/mel0k1/KiPaint",
+   "text": "Free & open-source digital painting app for illustration, comics & manga — CSP-style workflow in Rust, built on Graphite. / Свободный редактор рисования и манги на Rust.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "comics",
+    "digital-painting",
+    "drawing",
+    "graphics-editor",
+    "illustration",
+    "manga",
+    "open-source",
+    "painting",
+    "rust",
+    "wgpu"
+   ]
+  },
+  {
+   "name": "nontorrent",
+   "url": "https://github.com/mel0k1/nontorrent",
+   "text": "A simple, open-source torrent client with built-in malware scanning. No ads, no clutter.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Kiwi",
+   "url": "https://github.com/mel0k1/Kiwi",
+   "text": "Privacy-first web browser powered by the Mustela engine",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": [
+    "browser",
+    "cpp",
+    "gtk",
+    "linux",
+    "privacy",
+    "webkit",
+    "windows",
+    "mustela"
+   ]
+  },
+  {
+   "name": "Mustela",
+   "url": "https://github.com/mel0k1/Mustela",
+   "text": "Privacy-first, cross-platform browser engine built on WebKit",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": [
+    "browser-engine",
+    "cmake",
+    "cpp",
+    "cross-platform",
+    "linux",
+    "privacy",
+    "webkit",
+    "windows"
+   ]
+  },
+  {
+   "name": "Meloniya",
+   "url": "https://github.com/mel0k1/Meloniya",
+   "text": "Лаунчер Minecraft с модами, скинами и друзьями — форк Millida Launcher",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "MiLini",
+   "url": "https://github.com/mel0k1/MiLini",
+   "text": "MiLini — дистрибутив микроядра MiLin / distribution of the MiLin microkernel",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "linux",
+   "url": "https://github.com/mel0k1/linux",
+   "text": "MiLin: Linux carved into a microkernel (x86_64). Vanilla v7.2 minus sound/net/block/crypto/fs/most drivers - tools & roadmap in mel0k1/MiLin",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": [
+    "carve",
+    "kernel",
+    "linux",
+    "microkernel",
+    "osdev",
+    "qemu",
+    "x86-64"
+   ]
+  },
+  {
+   "name": "MiLin",
+   "url": "https://github.com/mel0k1/MiLin",
+   "text": "MiLin — carving Linux into a microkernel. Вырезаем из Linux микроядро.",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": [
+    "c",
+    "kernel",
+    "linux",
+    "microkernel",
+    "osdev",
+    "qemu",
+    "x86-64"
+   ]
+  },
+  {
+   "name": "mlibc",
+   "url": "https://github.com/mel0k1/mlibc",
+   "text": "Portable C standard library",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "Nomilia",
+   "url": "https://github.com/mel0k1/Nomilia",
+   "text": "Операционная система Nomilia на базе Managarm: асинхронное ядро thor, современный C++/Rust и улучшенная совместимость с Linux",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": [
+    "cpp",
+    "kernel",
+    "linux-compatibility",
+    "managarm",
+    "microkernel",
+    "operating-system",
+    "os",
+    "posix",
+    "rust"
+   ]
+  },
+  {
+   "name": "Daylo",
+   "url": "https://github.com/mel0k1/Daylo",
+   "text": "Daylo — лаунчер Minecraft на Tauri 2 + React",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "Whatever",
+   "url": "https://github.com/mel0k1/Whatever",
+   "text": "Minimalist monochrome web browser based on NetSurf",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": [
+    "browser",
+    "c",
+    "gtk3",
+    "minimalist",
+    "monochrome",
+    "netsurf"
+   ]
+  },
+  {
+   "name": "isc-archive",
+   "url": "https://github.com/mel0k1/isc-archive",
+   "text": "Its So Cool Format (.isc) — свой формат архивов на чистом C99: LZI (LZ+Huffman), авто-роутер store/rle/text/bin/delta, дедупликация, многопоточная распаковка -j N. From-scratch archive format, zero deps.",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": [
+    "archive-format",
+    "c",
+    "cli",
+    "compression",
+    "data-compression",
+    "deduplication",
+    "huffman",
+    "lz77",
+    "delta-encoding",
+    "multithreading"
+   ]
+  },
+  {
+   "name": "trusted-ai-infrastructure",
+   "url": "https://github.com/mel0k1/trusted-ai-infrastructure",
+   "text": "Trust layer for AI systems: policy-gated model routing and auditable agents. Rust workspace.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "Sputnik-AI",
+   "url": "https://github.com/mel0k1/Sputnik-AI",
+   "text": "Tiny LLM: linear attention + RWKV/Mamba, micro-expert MoE with adaptive router, morphology-aware Russian tokenizer",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "hi-derola",
+   "url": "https://github.com/mel0k1/hi-derola",
+   "text": "A high-performance, lightweight terminal chat and autonomous coding assistant written in pure Rust. Engineered for zero-dependency in-memory management, low context overhead, and deep ecosystem integration via custom plugins and MCP.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "ai-agent",
+    "ai-agents",
+    "coding-assistant",
+    "llm-client",
+    "low-overhead",
+    "mcp",
+    "model-context-protocol",
+    "performance",
+    "rust",
+    "terminal"
+   ]
+  },
+  {
+   "name": "Coonix",
+   "url": "https://github.com/mel0k1/Coonix",
+   "text": "x86_64 hobby OS built for glibc. Mascot: raccoon (enot). Limine + C kernel + ring3 shell.",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  }
+ ]
+}
