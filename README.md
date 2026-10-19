@@ -8,9 +8,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Стек"></picture>
 
-<a href="https://github.com/mel0k1/wlibc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wlibc-dark.svg"><img src="assets/project-wlibc-light.svg" width="49%" alt="wlibc"></picture></a>&nbsp;<a href="https://github.com/mel0k1/epkg-tool"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-epkg-tool-dark.svg"><img src="assets/project-epkg-tool-light.svg" width="49%" alt="epkg-tool"></picture></a>
+<a href="https://github.com/mel0k1/hi-derola"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hi-derola-dark.svg"><img src="assets/project-hi-derola-light.svg" width="49%" alt="hi-derola"></picture></a>&nbsp;<a href="https://github.com/mel0k1/Sputnik-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sputnik-ai-dark.svg"><img src="assets/project-sputnik-ai-light.svg" width="49%" alt="Sputnik-AI"></picture></a>
 
-<a href="https://github.com/mel0k1/epkg-packets"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-epkg-packets-dark.svg"><img src="assets/project-epkg-packets-light.svg" width="49%" alt="epkg-packets"></picture></a>&nbsp;<a href="https://github.com/mel0k1/glm-os"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-glm-os-dark.svg"><img src="assets/project-glm-os-light.svg" width="49%" alt="glm-os"></picture></a>
+<a href="https://github.com/mel0k1/Coonix"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-coonix-dark.svg"><img src="assets/project-coonix-light.svg" width="49%" alt="Coonix"></picture></a>&nbsp;<a href="https://github.com/mel0k1/NiriGNU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nirignu-dark.svg"><img src="assets/project-nirignu-light.svg" width="49%" alt="NiriGNU"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Активность на GitHub"></picture>
 
