@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "login": "mel0k1",
+  "seed": "#5564EA",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Its me",
+    "name": "mel0k1",
+    "subtitle": "",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Russia"
+      },
+      {
+        "icon": "code",
+        "label": "Rust ·  C ·  C++ "
+      }
+    ]
+  },
+  "about": {
+    "title": "Обо мне",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Разработчик и дизайнер"
+      },
+      {
+        "icon": "code",
+        "label": "В основном фронтенд"
+      },
+      {
+        "icon": "palette",
+        "label": "Люблю Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Стек",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:c",
+            "label": "C"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:github",
+            "label": "GitHub"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "Описания пока нет.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Активность на GitHub",
+    "stars": "Звёзд получено",
+    "contributions": "Вкладов за год",
+    "repos": "Публичных репо",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки в моих репозиториях",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Серия",
+    "current": "Текущая серия",
+    "longest": "Рекорд за год",
+    "days": "дн."
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/seamiq"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/achkes"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/NoSmockNo"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "Все репозитории",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
