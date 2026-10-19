@@ -40,15 +40,15 @@
     "items": [
       {
         "icon": "person",
-        "label": "Разработчик и дизайнер"
+        "label": "Разработчик всего и вся"
       },
       {
         "icon": "code",
-        "label": "В основном фронтенд"
+        "label": "В основном Backend"
       },
       {
         "icon": "palette",
-        "label": "Люблю Material Design"
+        "label": "Love Minimalism, MD3"
       }
     ]
   },
