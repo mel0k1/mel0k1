@@ -10,7 +10,9 @@
 
 <a href="https://github.com/mel0k1/hi-derola"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hi-derola-dark.svg"><img src="assets/project-hi-derola-light.svg" width="49%" alt="hi-derola"></picture></a>&nbsp;<a href="https://github.com/mel0k1/Sputnik-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sputnik-ai-dark.svg"><img src="assets/project-sputnik-ai-light.svg" width="49%" alt="Sputnik-AI"></picture></a>
 
-<a href="https://github.com/mel0k1/Coonix"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-coonix-dark.svg"><img src="assets/project-coonix-light.svg" width="49%" alt="Coonix"></picture></a>&nbsp;<a href="https://github.com/mel0k1/NiriGNU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nirignu-dark.svg"><img src="assets/project-nirignu-light.svg" width="49%" alt="NiriGNU"></picture></a>
+<a href="https://github.com/mel0k1/MiLin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-milin-dark.svg"><img src="assets/project-milin-light.svg" width="49%" alt="MiLin"></picture></a>&nbsp;<a href="https://github.com/mel0k1/MiLini"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-milini-dark.svg"><img src="assets/project-milini-light.svg" width="49%" alt="MiLini"></picture></a>
+
+<a href="https://github.com/mel0k1/nontorrent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nontorrent-dark.svg"><img src="assets/project-nontorrent-light.svg" width="49%" alt="nontorrent"></picture></a>&nbsp;<a href="https://github.com/mel0k1/OpenEFI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-openefi-dark.svg"><img src="assets/project-openefi-light.svg" width="49%" alt="OpenEFI"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Активность на GitHub"></picture>
 
