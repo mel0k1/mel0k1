@@ -1,13 +1,13 @@
 {
- "key": "d769f16",
+ "key": "4da9133",
  "stars": 8,
- "contributions": 1200,
- "repos": 27,
+ "contributions": 1273,
+ "repos": 28,
  "followers": 2,
  "languages": [
   [
    "C",
-   99901138
+   99944508
   ],
   [
    "Rust",
@@ -121,19 +121,23 @@
     "today": false
    },
    {
-    "c": 5,
+    "c": 65,
     "day": 20,
+    "today": false
+   },
+   {
+    "c": 13,
+    "day": 21,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 32,
-  "longest": 32
+  "current": 33,
+  "longest": 33
  },
  "pins": [
   {
@@ -295,6 +299,26 @@
    "stars": 1,
    "language": "Standard ML",
    "topics": []
+  },
+  {
+   "name": "KiniNi",
+   "url": "https://github.com/mel0k1/KiniNi",
+   "text": "Tiny glibc Linux distribution on Void Linux packages — runit-like niinit init and XBPS-based kipki package manager. Mascot: a kiwi.",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": [
+    "c",
+    "distribution",
+    "glibc",
+    "init",
+    "kiwi",
+    "linux",
+    "package-manager",
+    "runit",
+    "void-linux",
+    "xbps"
+   ]
   },
   {
    "name": "kiwi-browser",
