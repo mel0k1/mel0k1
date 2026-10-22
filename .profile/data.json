@@ -1,21 +1,21 @@
 {
- "key": "4da9133",
+ "key": "b29aabdf",
  "stars": 8,
- "contributions": 1273,
- "repos": 28,
+ "contributions": 1401,
+ "repos": 29,
  "followers": 2,
  "languages": [
   [
    "C",
-   99944508
+   99964392
   ],
   [
    "Rust",
-   15908152
+   16050562
   ],
   [
    "C++",
-   14350988
+   14378728
   ],
   [
    "TypeScript",
@@ -126,18 +126,22 @@
     "today": false
    },
    {
-    "c": 13,
+    "c": 110,
     "day": 21,
+    "today": false
+   },
+   {
+    "c": 31,
+    "day": 22,
     "today": true
    },
-   null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 33,
-  "longest": 33
+  "current": 34,
+  "longest": 34
  },
  "pins": [
   {
@@ -301,12 +305,30 @@
    "topics": []
   },
   {
-   "name": "KiniNi",
-   "url": "https://github.com/mel0k1/KiniNi",
-   "text": "Tiny glibc Linux distribution on Void Linux packages — runit-like niinit init and XBPS-based kipki package manager. Mascot: a kiwi.",
+   "name": "Shizoley",
+   "url": "https://github.com/mel0k1/Shizoley",
+   "text": "Hobby OS on the Paparaci microkernel written in Rust, with a C++20 userspace. Хобби-ОС: микроядро Paparaci на Rust + окружение на C++.",
    "fork": false,
    "stars": 0,
-   "language": "C",
+   "language": "Rust",
+   "topics": [
+    "bootloader",
+    "cpp",
+    "hobby-os",
+    "microkernel",
+    "os",
+    "qemu",
+    "rust",
+    "x86-64"
+   ]
+  },
+  {
+   "name": "KiniNi",
+   "url": "https://github.com/mel0k1/KiniNi",
+   "text": "A tiny glibc distribution on Void Linux binary packages - own runit-like init (niinit), XBPS package manager (kipki), BIOS+UEFI installer, CachyOS-style tuning. Kiwi inside.",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
    "topics": [
     "c",
     "distribution",
