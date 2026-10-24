@@ -1,21 +1,21 @@
 {
- "key": "7ae87178",
+ "key": "950aa903",
  "stars": 8,
- "contributions": 1467,
- "repos": 29,
+ "contributions": 1520,
+ "repos": 30,
  "followers": 2,
  "languages": [
   [
    "C",
-   99970540
+   100028468
   ],
   [
    "Rust",
-   16098540
+   16179552
   ],
   [
    "C++",
-   14396538
+   14623423
   ],
   [
    "TypeScript",
@@ -23,7 +23,7 @@
   ],
   [
    "Python",
-   2748337
+   2763031
   ],
   [
    "CSS",
@@ -136,16 +136,20 @@
     "today": false
    },
    {
-    "c": 17,
+    "c": 69,
     "day": 23,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 1,
+    "day": 24,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 35,
-  "longest": 35
+  "current": 36,
+  "longest": 36
  },
  "pins": [
   {
@@ -309,6 +313,26 @@
    "topics": []
   },
   {
+   "name": "way",
+   "url": "https://github.com/mel0k1/way",
+   "text": "Cross-platform VPN client with sing-box & xray cores. Flutter + Go · Material Design 3 · Android & Windows",
+   "fork": false,
+   "stars": 0,
+   "language": "Dart",
+   "topics": [
+    "android",
+    "cross-platform",
+    "flutter",
+    "go",
+    "golang",
+    "hysteria2",
+    "material-design-3",
+    "material-you",
+    "reality",
+    "shadowsocks"
+   ]
+  },
+  {
    "name": "Shizoley",
    "url": "https://github.com/mel0k1/Shizoley",
    "text": "Hobby OS on the Paparaci microkernel written in Rust, with a C++20 userspace. Хобби-ОС: микроядро Paparaci на Rust + окружение на C++.",
@@ -329,7 +353,7 @@
   {
    "name": "KiniNi",
    "url": "https://github.com/mel0k1/KiniNi",
-   "text": "A tiny glibc distribution on Void Linux binary packages - own runit-like init (niinit), XBPS package manager (kipki), BIOS+UEFI installer, CachyOS-style tuning. Kiwi inside.",
+   "text": "A tiny glibc distribution on Void Linux binary packages - own runit-like init (niinit), XBPS package manager (kipki), BIOS+UEFI installer, LUKS2 encryption, sched_ext schedulers and the KiniNi kernel. Kiwi inside.",
    "fork": false,
    "stars": 0,
    "language": "Shell",
