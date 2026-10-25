@@ -1,7 +1,7 @@
 {
- "key": "950aa903",
+ "key": "83564f49",
  "stars": 8,
- "contributions": 1520,
+ "contributions": 1538,
  "repos": 30,
  "followers": 2,
  "languages": [
@@ -11,11 +11,11 @@
   ],
   [
    "Rust",
-   16179552
+   16187038
   ],
   [
    "C++",
-   14623423
+   14634627
   ],
   [
    "TypeScript",
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 151,
-    "day": 4,
-    "today": false
-   },
-   {
-    "c": 112,
-    "day": 5,
-    "today": false
-   },
-   {
-    "c": 38,
-    "day": 6,
-    "today": false
-   },
-   {
-    "c": 14,
-    "day": 7,
-    "today": false
-   },
-   {
-    "c": 80,
-    "day": 8,
-    "today": false
-   },
-   {
-    "c": 36,
-    "day": 9,
-    "today": false
-   },
-   {
-    "c": 63,
-    "day": 10,
-    "today": false
-   }
-  ],
   [
    {
     "c": 68,
@@ -141,15 +104,28 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 15,
     "day": 24,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 4,
+    "day": 25,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 36,
-  "longest": 36
+  "current": 37,
+  "longest": 37
  },
  "pins": [
   {
