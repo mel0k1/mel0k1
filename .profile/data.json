@@ -1,21 +1,21 @@
 {
- "key": "3d871f69",
+ "key": "ed00b0c6",
  "stars": 8,
- "contributions": 1636,
- "repos": 33,
+ "contributions": 1753,
+ "repos": 36,
  "followers": 2,
  "languages": [
   [
    "C",
-   100042572
+   100065026
   ],
   [
    "Rust",
-   16229057
+   17679116
   ],
   [
    "C++",
-   14645106
+   14969457
   ],
   [
    "TypeScript",
@@ -23,7 +23,7 @@
   ],
   [
    "Python",
-   2763031
+   2766856
   ],
   [
    "CSS",
@@ -116,11 +116,15 @@
     "today": false
    },
    {
-    "c": 10,
+    "c": 104,
     "day": 26,
+    "today": false
+   },
+   {
+    "c": 23,
+    "day": 27,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -128,8 +132,8 @@
   ]
  ],
  "streak": {
-  "current": 38,
-  "longest": 38
+  "current": 39,
+  "longest": 39
  },
  "pins": [
   {
@@ -293,12 +297,72 @@
    "topics": []
   },
   {
+   "name": "MiLuna",
+   "url": "https://github.com/mel0k1/MiLuna",
+   "text": "🌙 Дистрибутив ОС на ядре MiUx 7.0.0 (x86_64): Rust-ядро, оконный менеджер на C, GRUB2, сеть, браузер и fetch с луной",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "distro",
+    "fat32",
+    "grub",
+    "hobby-os",
+    "kernel",
+    "multiboot2",
+    "os",
+    "rust",
+    "vesa",
+    "x86-64"
+   ]
+  },
+  {
+   "name": "Loali",
+   "url": "https://github.com/mel0k1/Loali",
+   "text": "Hi! Loali — Material 3 Expressive desktop environment for Linux. Qt 6 + QML + Wayland: top dock, bottom taskbar, desktop icons.",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": [
+    "compositor",
+    "cpp",
+    "desktop-environment",
+    "linux",
+    "material-3-expressive",
+    "material-design-3",
+    "material-theme",
+    "material-you",
+    "qml",
+    "qt"
+   ]
+  },
+  {
+   "name": "Nerine",
+   "url": "https://github.com/mel0k1/Nerine",
+   "text": "An operating system that grows instead of being built: a Rust kernel that is, above all, one large hypervisor. One bulb — many blooms.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "bare-metal",
+    "hobby-os",
+    "hypervisor",
+    "kernel",
+    "no-std",
+    "operating-system",
+    "osdev",
+    "rust",
+    "virtualization",
+    "x86-64"
+   ]
+  },
+  {
    "name": "Liji",
    "url": "https://github.com/mel0k1/Liji",
    "text": "Операционная система на базе Fuchsia/Zircon с десктоп-окружением Mejo",
    "fork": false,
    "stars": 0,
-   "language": "Dart",
+   "language": "Shell",
    "topics": [
     "desktop-environment",
     "fuchsia",
