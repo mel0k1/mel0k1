@@ -1,21 +1,21 @@
 {
- "key": "ed00b0c6",
+ "key": "edf02fe3",
  "stars": 8,
- "contributions": 1753,
+ "contributions": 1801,
  "repos": 36,
  "followers": 2,
  "languages": [
   [
    "C",
-   100065026
+   100072460
   ],
   [
    "Rust",
-   17679116
+   17798858
   ],
   [
    "C++",
-   14969457
+   15006783
   ],
   [
    "TypeScript",
@@ -121,11 +121,15 @@
     "today": false
    },
    {
-    "c": 23,
+    "c": 71,
     "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
     "today": true
    },
-   null,
    null,
    null,
    null
