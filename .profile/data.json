@@ -1,25 +1,29 @@
 {
- "key": "769a0e16",
+ "key": "5142ccce",
  "stars": 9,
- "contributions": 1850,
- "repos": 37,
+ "contributions": 1888,
+ "repos": 38,
  "followers": 2,
  "languages": [
   [
    "C",
-   100096592
+   100488830
   ],
   [
    "Rust",
-   45754787
+   45773788
+  ],
+  [
+   "C#",
+   16820373
   ],
   [
    "C++",
-   15170993
+   15909875
   ],
   [
    "Python",
-   7741257
+   7916590
   ],
   [
    "TypeScript",
@@ -28,10 +32,6 @@
   [
    "Java",
    3175901
-  ],
-  [
-   "CSS",
-   1679649
   ]
  ],
  "days": [
@@ -131,17 +131,21 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 27,
     "day": 29,
+    "today": false
+   },
+   {
+    "c": 14,
+    "day": 30,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 41,
-  "longest": 41
+  "current": 42,
+  "longest": 42
  },
  "pins": [
   {
@@ -312,6 +316,26 @@
    "stars": 1,
    "language": "Standard ML",
    "topics": []
+  },
+  {
+   "name": "Singularity",
+   "url": "https://github.com/mel0k1/Singularity",
+   "text": "Hybrid client-server game engine: a C# orchestration core with Rust subsystems — crypto, physics, transport, PVS",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": [
+    "bevy",
+    "client-server",
+    "ecs",
+    "game-engine",
+    "gamedev",
+    "multiplayer",
+    "networking",
+    "rust",
+    "space-station-14",
+    "csharp"
+   ]
   },
   {
    "name": "Vespera",
