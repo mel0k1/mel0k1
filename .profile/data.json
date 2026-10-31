@@ -1,8 +1,8 @@
 {
- "key": "5142ccce",
+ "key": "69c851ff",
  "stars": 9,
- "contributions": 1888,
- "repos": 38,
+ "contributions": 1933,
+ "repos": 39,
  "followers": 2,
  "languages": [
   [
@@ -11,19 +11,19 @@
   ],
   [
    "Rust",
-   45773788
+   45873424
   ],
   [
    "C#",
-   16820373
+   16903598
   ],
   [
    "C++",
-   15909875
+   15913784
   ],
   [
    "Python",
-   7916590
+   8047062
   ],
   [
    "TypeScript",
@@ -136,11 +136,15 @@
     "today": false
    },
    {
-    "c": 14,
+    "c": 59,
     "day": 30,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 31,
+    "today": true
+   }
   ]
  ],
  "streak": {
@@ -318,6 +322,25 @@
    "topics": []
   },
   {
+   "name": "mandela",
+   "url": "https://github.com/mel0k1/mandela",
+   "text": "A systems programming language with Python-like syntax, C++-level power and rustc-grade strictness. The compiler is written in Mandela itself.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "compiler",
+    "interpreter",
+    "language-design",
+    "programming-language",
+    "self-hosting",
+    "systems-programming",
+    "type-checker",
+    "memory-management",
+    "native-code"
+   ]
+  },
+  {
    "name": "Singularity",
    "url": "https://github.com/mel0k1/Singularity",
    "text": "Hybrid client-server game engine: a C# orchestration core with Rust subsystems — crypto, physics, transport, PVS",
@@ -325,16 +348,16 @@
    "stars": 0,
    "language": "C#",
    "topics": [
+    "game-engine",
+    "rust",
+    "csharp",
+    "hybrid",
+    "physics",
+    "ffi",
+    "rapier",
     "bevy",
     "client-server",
-    "ecs",
-    "game-engine",
-    "gamedev",
-    "multiplayer",
-    "networking",
-    "rust",
-    "space-station-14",
-    "csharp"
+    "ecs"
    ]
   },
   {
