@@ -1,29 +1,29 @@
 {
- "key": "69c851ff",
+ "key": "84eb890c",
  "stars": 9,
- "contributions": 1933,
- "repos": 39,
+ "contributions": 1974,
+ "repos": 41,
  "followers": 2,
  "languages": [
   [
    "C",
-   100488830
+   100490318
   ],
   [
    "Rust",
-   45873424
+   46201408
   ],
   [
    "C#",
-   16903598
+   16993901
   ],
   [
    "C++",
-   15913784
+   15941395
   ],
   [
    "Python",
-   8047062
+   8230461
   ],
   [
    "TypeScript",
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 68,
-    "day": 11,
-    "today": false
-   },
-   {
-    "c": 31,
-    "day": 12,
-    "today": false
-   },
-   {
-    "c": 20,
-    "day": 13,
-    "today": false
-   },
-   {
-    "c": 18,
-    "day": 14,
-    "today": false
-   },
-   {
-    "c": 30,
-    "day": 15,
-    "today": false
-   },
-   {
-    "c": 42,
-    "day": 16,
-    "today": false
-   },
-   {
-    "c": 99,
-    "day": 17,
-    "today": false
-   }
-  ],
   [
    {
     "c": 138,
@@ -141,15 +104,28 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 27,
     "day": 31,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 14,
+    "day": 1,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 42,
-  "longest": 42
+  "current": 44,
+  "longest": 44
  },
  "pins": [
   {
@@ -320,6 +296,44 @@
    "stars": 1,
    "language": "Standard ML",
    "topics": []
+  },
+  {
+   "name": "PhotonOS",
+   "url": "https://github.com/mel0k1/PhotonOS",
+   "text": "Лёгкий дистрибутив Linux на базе Void Linux (glibc + runit) с фирменным пакетным менеджером ppm и ASCII-эстетикой. Цель — лёгкий десктоп на DDE.",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": [
+    "dde",
+    "deepin",
+    "glibc",
+    "lightweight",
+    "linux-distribution",
+    "photonos",
+    "ppm",
+    "runit",
+    "void-linux",
+    "xbps"
+   ]
+  },
+  {
+   "name": "Anyway",
+   "url": "https://github.com/mel0k1/Anyway",
+   "text": "Cross-platform OSINT workstation: Flutter UI on a Rust core. Username, email, IP/domain, phone and file metadata recon with case management and MD/JSON reports.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "cross-platform",
+    "cybersecurity",
+    "flutter",
+    "investigations",
+    "material-design-3",
+    "osint",
+    "reconnaissance",
+    "rust"
+   ]
   },
   {
    "name": "mandela",
