@@ -1,13 +1,13 @@
 {
- "key": "84eb890c",
- "stars": 9,
- "contributions": 1974,
- "repos": 41,
+ "key": "9bcb7cce",
+ "stars": 10,
+ "contributions": 1990,
+ "repos": 42,
  "followers": 2,
  "languages": [
   [
    "C",
-   100490318
+   101881650
   ],
   [
    "Rust",
@@ -19,7 +19,7 @@
   ],
   [
    "C++",
-   15941395
+   16167023
   ],
   [
    "Python",
@@ -111,11 +111,15 @@
   ],
   [
    {
-    "c": 14,
+    "c": 27,
     "day": 1,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 2,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -124,8 +128,8 @@
   ]
  ],
  "streak": {
-  "current": 44,
-  "longest": 44
+  "current": 45,
+  "longest": 45
  },
  "pins": [
   {
@@ -197,7 +201,7 @@
    "url": "https://github.com/mel0k1/OpenEFI",
    "text": "⚡ Генератор EFI для хакинтоша: скан железа, подбор кекстов, SMBIOS и серийники. Rust + Tauri 2 + React + shadcn/ui",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Rust",
    "topics": [
     "efi",
@@ -232,6 +236,26 @@
     "pthreads",
     "stdio",
     "fdlibm"
+   ]
+  },
+  {
+   "name": "OpenEFI",
+   "url": "https://github.com/mel0k1/OpenEFI",
+   "text": "⚡ Генератор EFI для хакинтоша: скан железа, подбор кекстов, SMBIOS и серийники. Rust + Tauri 2 + React + shadcn/ui",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": [
+    "efi",
+    "hackintosh",
+    "kexts",
+    "opcore-simplify",
+    "opencore",
+    "react",
+    "rust",
+    "shadcn",
+    "smbios",
+    "tauri"
    ]
   },
   {
@@ -298,12 +322,29 @@
    "topics": []
   },
   {
+   "name": "Meraki",
+   "url": "https://github.com/mel0k1/Meraki",
+   "text": "Альтернативное DE для Windows вместо explorer.exe: движок SwineWM, интерфейс в стиле macOS (порт MacShell)",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": [
+    "blackbox",
+    "desktop-environment",
+    "qml",
+    "qt6",
+    "shell-replacement",
+    "sway",
+    "windows"
+   ]
+  },
+  {
    "name": "PhotonOS",
    "url": "https://github.com/mel0k1/PhotonOS",
    "text": "Лёгкий дистрибутив Linux на базе Void Linux (glibc + runit) с фирменным пакетным менеджером ppm и ASCII-эстетикой. Цель — лёгкий десктоп на DDE.",
    "fork": false,
    "stars": 0,
-   "language": "Shell",
+   "language": "C++",
    "topics": [
     "dde",
     "deepin",
@@ -585,26 +626,6 @@
    "stars": 0,
    "language": null,
    "topics": []
-  },
-  {
-   "name": "OpenEFI",
-   "url": "https://github.com/mel0k1/OpenEFI",
-   "text": "⚡ Генератор EFI для хакинтоша: скан железа, подбор кекстов, SMBIOS и серийники. Rust + Tauri 2 + React + shadcn/ui",
-   "fork": false,
-   "stars": 0,
-   "language": "Rust",
-   "topics": [
-    "efi",
-    "hackintosh",
-    "kexts",
-    "opcore-simplify",
-    "opencore",
-    "react",
-    "rust",
-    "shadcn",
-    "smbios",
-    "tauri"
-   ]
   },
   {
    "name": "ioni-os",
