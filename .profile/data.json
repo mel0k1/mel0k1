@@ -1,37 +1,37 @@
 {
- "key": "bafa9472",
- "stars": 10,
- "contributions": 2120,
- "repos": 44,
+ "key": "fe74c5d9",
+ "stars": 11,
+ "contributions": 2233,
+ "repos": 45,
  "followers": 1,
  "languages": [
   [
    "C",
-   101942885
+   118698766
+  ],
+  [
+   "Java",
+   83539851
+  ],
+  [
+   "C++",
+   54650253
   ],
   [
    "Rust",
-   46201408
+   46475219
   ],
   [
    "C#",
    16993901
   ],
   [
-   "C++",
-   16309066
-  ],
-  [
    "Python",
-   8334020
+   9224327
   ],
   [
    "TypeScript",
-   6834686
-  ],
-  [
-   "Java",
-   3175901
+   7152984
   ]
  ],
  "days": [
@@ -116,44 +116,48 @@
     "today": false
    },
    {
-    "c": 88,
+    "c": 87,
     "day": 2,
     "today": false
    },
    {
-    "c": 45,
+    "c": 157,
     "day": 3,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 4,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 46,
-  "longest": 46
+  "current": 47,
+  "longest": 47
  },
  "pins": [
   {
    "name": "hi-derola",
    "url": "https://github.com/mel0k1/hi-derola",
-   "text": "A high-performance, lightweight terminal chat and autonomous coding assistant written in pure Rust. Engineered for zero-dependency in-memory management, low context overhead, and deep ecosystem integration via custom plugins and MCP.",
+   "text": "a fast coding assistant in pure rust: terminal + desktop ui, tool calling, mcp, qemu sandboxes, multi-agent crews",
    "fork": false,
    "stars": 0,
    "language": "Rust",
    "topics": [
     "ai-agent",
-    "ai-agents",
     "coding-assistant",
     "llm-client",
-    "low-overhead",
     "mcp",
     "model-context-protocol",
-    "performance",
     "rust",
-    "terminal"
+    "terminal",
+    "tui",
+    "gui",
+    "anthropic"
    ]
   },
   {
@@ -243,6 +247,15 @@
    ]
   },
   {
+   "name": "Wayles",
+   "url": "https://github.com/mel0k1/Wayles",
+   "text": "Telegram client on TDLib with Material 3 Expressive",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
    "name": "OpenEFI",
    "url": "https://github.com/mel0k1/OpenEFI",
    "text": "⚡ Генератор EFI для хакинтоша: скан железа, подбор кекстов, SMBIOS и серийники. Rust + Tauri 2 + React + shadcn/ui",
@@ -326,28 +339,34 @@
    "topics": []
   },
   {
-   "name": "Wayles",
-   "url": "https://github.com/mel0k1/Wayles",
-   "text": "Telegram client on TDLib with Material 3 Expressive",
+   "name": "kiwigram",
+   "url": "https://github.com/mel0k1/kiwigram",
+   "text": "Telegram client for Android — fork of exteraless with a Material 3 Expressive redesign",
    "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "WayGram",
-   "url": "https://github.com/mel0k1/WayGram",
-   "text": "Telegram for Android fork with a Material 3 Expressive UI",
-   "fork": true,
    "stars": 0,
    "language": "Java",
    "topics": [
     "android",
     "fork",
-    "material-design",
-    "material-you",
+    "material-3-expressive",
     "material3",
-    "telegram"
+    "open-source",
+    "telegram",
+    "telegram-client"
+   ]
+  },
+  {
+   "name": "breaky",
+   "url": "https://github.com/mel0k1/breaky",
+   "text": "Browser engine in Rust",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "browser-engine",
+    "html",
+    "parser",
+    "rust"
    ]
   },
   {
@@ -878,21 +897,21 @@
   {
    "name": "hi-derola",
    "url": "https://github.com/mel0k1/hi-derola",
-   "text": "A high-performance, lightweight terminal chat and autonomous coding assistant written in pure Rust. Engineered for zero-dependency in-memory management, low context overhead, and deep ecosystem integration via custom plugins and MCP.",
+   "text": "a fast coding assistant in pure rust: terminal + desktop ui, tool calling, mcp, qemu sandboxes, multi-agent crews",
    "fork": false,
    "stars": 0,
    "language": "Rust",
    "topics": [
     "ai-agent",
-    "ai-agents",
     "coding-assistant",
     "llm-client",
-    "low-overhead",
     "mcp",
     "model-context-protocol",
-    "performance",
     "rust",
-    "terminal"
+    "terminal",
+    "tui",
+    "gui",
+    "anthropic"
    ]
   },
   {
