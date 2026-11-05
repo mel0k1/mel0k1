@@ -1,8 +1,8 @@
 {
- "key": "fe74c5d9",
+ "key": "cd144d94",
  "stars": 11,
- "contributions": 2233,
- "repos": 45,
+ "contributions": 2297,
+ "repos": 46,
  "followers": 1,
  "languages": [
   [
@@ -19,7 +19,7 @@
   ],
   [
    "Rust",
-   46475219
+   46785633
   ],
   [
    "C#",
@@ -31,7 +31,7 @@
   ],
   [
    "TypeScript",
-   7152984
+   7267634
   ]
  ],
  "days": [
@@ -126,11 +126,15 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 66,
     "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
     "today": true
    },
-   null,
    null,
    null
   ]
@@ -337,6 +341,26 @@
    "stars": 1,
    "language": "Standard ML",
    "topics": []
+  },
+  {
+   "name": "Kinera",
+   "url": "https://github.com/mel0k1/Kinera",
+   "text": "Free and open manga reader for Android — MangaDex, local CBZ, offline downloads. Kotlin + Compose, Material 3 Expressive.",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "jetpack-compose",
+    "kotlin",
+    "mangadex",
+    "cbz",
+    "gpl3",
+    "manga-reader",
+    "manga",
+    "material-design",
+    "material3-expressive"
+   ]
   },
   {
    "name": "kiwigram",
