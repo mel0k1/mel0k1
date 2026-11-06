@@ -1,13 +1,13 @@
 {
- "key": "cd144d94",
+ "key": "3de9577b",
  "stars": 11,
- "contributions": 2297,
+ "contributions": 2338,
  "repos": 46,
  "followers": 1,
  "languages": [
   [
    "C",
-   118698766
+   121227254
   ],
   [
    "Java",
@@ -19,7 +19,7 @@
   ],
   [
    "Rust",
-   46785633
+   46947026
   ],
   [
    "C#",
@@ -31,7 +31,7 @@
   ],
   [
    "TypeScript",
-   7267634
+   7265101
   ]
  ],
  "days": [
@@ -131,17 +131,21 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 41,
     "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 47,
-  "longest": 47
+  "current": 48,
+  "longest": 48
  },
  "pins": [
   {
@@ -385,7 +389,7 @@
    "text": "Browser engine in Rust",
    "fork": false,
    "stars": 0,
-   "language": "Rust",
+   "language": "C",
    "topics": [
     "browser-engine",
     "html",
@@ -413,21 +417,21 @@
   {
    "name": "PhotonOS",
    "url": "https://github.com/mel0k1/PhotonOS",
-   "text": "Лёгкий дистрибутив Linux на базе Void Linux (glibc + runit) с фирменным пакетным менеджером ppm и ASCII-эстетикой. Цель — лёгкий десктоп на DDE.",
+   "text": "Лёгкий Linux-дистрибутив на базе Debian 13 с LXQt: для офиса и слабых ПК.",
    "fork": false,
    "stars": 0,
    "language": "C++",
    "topics": [
-    "dde",
     "deepin",
-    "glibc",
     "lightweight",
     "linux-distribution",
     "photonos",
-    "ppm",
-    "runit",
-    "void-linux",
-    "xbps"
+    "debian",
+    "live-iso",
+    "low-end-pc",
+    "lxqt",
+    "office",
+    "picom"
    ]
   },
   {
