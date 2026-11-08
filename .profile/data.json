@@ -1,13 +1,13 @@
 {
- "key": "72a4b49e",
+ "key": "a1845075",
  "stars": 11,
- "contributions": 2338,
+ "contributions": 2371,
  "repos": 46,
  "followers": 1,
  "languages": [
   [
    "C",
-   121227254
+   121227830
   ],
   [
    "Java",
@@ -15,7 +15,7 @@
   ],
   [
    "C++",
-   54650253
+   54657307
   ],
   [
    "Rust",
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 138,
-    "day": 18,
-    "today": false
-   },
-   {
-    "c": 65,
-    "day": 19,
-    "today": false
-   },
-   {
-    "c": 65,
-    "day": 20,
-    "today": false
-   },
-   {
-    "c": 110,
-    "day": 21,
-    "today": false
-   },
-   {
-    "c": 80,
-    "day": 22,
-    "today": false
-   },
-   {
-    "c": 69,
-    "day": 23,
-    "today": false
-   },
-   {
-    "c": 15,
-    "day": 24,
-    "today": false
-   }
-  ],
   [
    {
     "c": 92,
@@ -141,14 +104,27 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 22,
     "day": 7,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 11,
+    "day": 8,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 2,
   "longest": 48
  },
  "pins": [
@@ -663,7 +639,7 @@
   {
    "name": "KiniNi",
    "url": "https://github.com/mel0k1/KiniNi",
-   "text": "A tiny glibc distribution on Void Linux binary packages - own runit-like init (niinit), XBPS package manager (kipki), BIOS+UEFI installer, LUKS2 encryption, sched_ext schedulers and the KiniNi kernel. Kiwi inside.",
+   "text": "A tiny user-first glibc distribution on Void Linux binary packages - own runit-like init (niinit), XBPS package manager (kipki), desktop out of the box (Xfce/Labwc, PipeWire, wifi, power profiles), LUKS2, sched_ext schedulers and the KiniNi kernel. Kiwi inside.",
    "fork": false,
    "stars": 0,
    "language": "Shell",
