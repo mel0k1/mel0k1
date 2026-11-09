@@ -1,13 +1,13 @@
 {
- "key": "a1845075",
- "stars": 11,
- "contributions": 2371,
- "repos": 46,
+ "key": "aa9b672f",
+ "stars": 12,
+ "contributions": 2455,
+ "repos": 49,
  "followers": 1,
  "languages": [
   [
    "C",
-   121227830
+   121408372
   ],
   [
    "Java",
@@ -15,19 +15,19 @@
   ],
   [
    "C++",
-   54657307
+   56901106
   ],
   [
    "Rust",
-   46947026
+   47329309
   ],
   [
    "C#",
-   16993901
+   17015883
   ],
   [
    "Python",
-   9224327
+   9263912
   ],
   [
    "TypeScript",
@@ -111,11 +111,15 @@
   ],
   [
    {
-    "c": 11,
+    "c": 95,
     "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -244,6 +248,26 @@
    "topics": []
   },
   {
+   "name": "way",
+   "url": "https://github.com/mel0k1/way",
+   "text": "Cross-platform VPN client with sing-box & xray cores. Flutter + Go · Material Design 3 · Android & Windows",
+   "fork": false,
+   "stars": 1,
+   "language": "Dart",
+   "topics": [
+    "android",
+    "cross-platform",
+    "flutter",
+    "go",
+    "golang",
+    "hysteria2",
+    "material-design-3",
+    "material-you",
+    "reality",
+    "shadowsocks"
+   ]
+  },
+  {
    "name": "OpenEFI",
    "url": "https://github.com/mel0k1/OpenEFI",
    "text": "⚡ Генератор EFI для хакинтоша: скан железа, подбор кекстов, SMBIOS и серийники. Rust + Tauri 2 + React + shadcn/ui",
@@ -324,6 +348,51 @@
    "fork": false,
    "stars": 1,
    "language": "Standard ML",
+   "topics": []
+  },
+  {
+   "name": "Runly",
+   "url": "https://github.com/mel0k1/Runly",
+   "text": "Neural networks in Rust: MLP, convnets, batch_norm, dropout, autograd, Adam on top of the candle tensor engine",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "autograd",
+    "candle",
+    "deep-learning",
+    "machine-learning",
+    "mlp",
+    "mnist",
+    "neural-network",
+    "rust",
+    "batchnorm",
+    "convolutional-neural-networks"
+   ]
+  },
+  {
+   "name": "Illusio",
+   "url": "https://github.com/mel0k1/Illusio",
+   "text": "Лаунчер Space Station 14 на Rust и Flutter",
+   "fork": false,
+   "stars": 0,
+   "language": "Dart",
+   "topics": [
+    "flutter",
+    "game-launcher",
+    "launcher",
+    "rust",
+    "space-station-14",
+    "ss14"
+   ]
+  },
+  {
+   "name": "faloya",
+   "url": "https://github.com/mel0k1/faloya",
+   "text": "Язык программирования Faloya: форк Goose со строковой интерполяцией, файлы .fal",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
    "topics": []
   },
   {
@@ -596,26 +665,6 @@
     "socks5",
     "tunnel",
     "vpn"
-   ]
-  },
-  {
-   "name": "way",
-   "url": "https://github.com/mel0k1/way",
-   "text": "Cross-platform VPN client with sing-box & xray cores. Flutter + Go · Material Design 3 · Android & Windows",
-   "fork": false,
-   "stars": 0,
-   "language": "Dart",
-   "topics": [
-    "android",
-    "cross-platform",
-    "flutter",
-    "go",
-    "golang",
-    "hysteria2",
-    "material-design-3",
-    "material-you",
-    "reality",
-    "shadowsocks"
    ]
   },
   {
