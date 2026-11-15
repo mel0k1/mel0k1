@@ -1,13 +1,13 @@
 {
- "key": "36989b87",
- "stars": 13,
- "contributions": 2655,
- "repos": 54,
+ "key": "669b0234",
+ "stars": 12,
+ "contributions": 2700,
+ "repos": 55,
  "followers": 1,
  "languages": [
   [
    "C",
-   121408372
+   121418205
   ],
   [
    "Java",
@@ -19,15 +19,15 @@
   ],
   [
    "Rust",
-   47905899
+   50017444
   ],
   [
    "C#",
-   18180081
+   18227109
   ],
   [
    "Python",
-   9267061
+   9271147
   ],
   [
    "TypeScript",
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 92,
-    "day": 25,
-    "today": false
-   },
-   {
-    "c": 104,
-    "day": 26,
-    "today": false
-   },
-   {
-    "c": 71,
-    "day": 27,
-    "today": false
-   },
-   {
-    "c": 46,
-    "day": 28,
-    "today": false
-   },
-   {
-    "c": 27,
-    "day": 29,
-    "today": false
-   },
-   {
-    "c": 59,
-    "day": 30,
-    "today": false
-   },
-   {
-    "c": 27,
-    "day": 31,
-    "today": false
-   }
-  ],
   [
    {
     "c": 27,
@@ -141,10 +104,23 @@
     "today": false
    },
    {
-    "c": 20,
+    "c": 65,
     "day": 14,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
@@ -243,7 +219,7 @@
    "url": "https://github.com/mel0k1/wlibc",
    "text": "Portable C standard library for x86_64 Linux, inspired by musl, mlibc and glibc. Static, freestanding, with math from fdlibm.",
    "fork": false,
-   "stars": 3,
+   "stars": 2,
    "language": "C",
    "topics": [
     "c",
@@ -385,6 +361,24 @@
    "stars": 1,
    "language": "Standard ML",
    "topics": []
+  },
+  {
+   "name": "Afflictio",
+   "url": "https://github.com/mel0k1/Afflictio",
+   "text": "Mobile operating system in Rust on top of the moss kernel (AArch64)",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "aarch64",
+    "kernel",
+    "linux",
+    "mobile",
+    "moss",
+    "operating-system",
+    "os",
+    "rust"
+   ]
   },
   {
    "name": "SakuraTrap",
