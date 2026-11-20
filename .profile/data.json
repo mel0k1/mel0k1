@@ -1,8 +1,8 @@
 {
- "key": "6587dfa8",
+ "key": "9f8545fe",
  "stars": 12,
- "contributions": 2792,
- "repos": 56,
+ "contributions": 2748,
+ "repos": 57,
  "followers": 1,
  "languages": [
   [
@@ -19,7 +19,7 @@
   ],
   [
    "Rust",
-   50250550
+   48230759
   ],
   [
    "C#",
@@ -27,7 +27,7 @@
   ],
   [
    "Python",
-   9280953
+   9272233
   ],
   [
    "TypeScript",
@@ -104,19 +104,19 @@
     "today": false
    },
    {
-    "c": 65,
+    "c": 28,
     "day": 14,
     "today": false
    }
   ],
   [
    {
-    "c": 63,
+    "c": 22,
     "day": 15,
     "today": false
    },
    {
-    "c": 19,
+    "c": 16,
     "day": 16,
     "today": false
    },
@@ -131,16 +131,20 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 36,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 48
  },
  "pins": [
@@ -379,6 +383,40 @@
    "topics": []
   },
   {
+   "name": "FrayShare",
+   "url": "https://github.com/mel0k1/FrayShare",
+   "text": "Перенос фото, видео и приложений между Android по Wi-Fi. Вкладка полного переноса. Kotlin + Compose, Material 3 Expressive.",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "data-migration",
+    "file-transfer",
+    "jetpack-compose",
+    "kotlin",
+    "material-3-expressive",
+    "material3"
+   ]
+  },
+  {
+   "name": "Afflictio",
+   "url": "https://github.com/mel0k1/Afflictio",
+   "text": "Mobile OS based on the Linux kernel (AArch64) with a Rust userspace",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "aarch64",
+    "arm64",
+    "linux",
+    "linux-kernel",
+    "mobile",
+    "operating-system",
+    "rust"
+   ]
+  },
+  {
    "name": "ringeris",
    "url": "https://github.com/mel0k1/ringeris",
    "text": "Open-source antivirus for Windows 10/11: Rust core with ClamAV signature databases, WinUI 3 Fluent client",
@@ -386,24 +424,6 @@
    "stars": 0,
    "language": "Rust",
    "topics": []
-  },
-  {
-   "name": "Afflictio",
-   "url": "https://github.com/mel0k1/Afflictio",
-   "text": "Mobile operating system in Rust on top of the moss kernel (AArch64)",
-   "fork": false,
-   "stars": 0,
-   "language": "Rust",
-   "topics": [
-    "aarch64",
-    "kernel",
-    "linux",
-    "mobile",
-    "moss",
-    "operating-system",
-    "os",
-    "rust"
-   ]
   },
   {
    "name": "SakuraTrap",
