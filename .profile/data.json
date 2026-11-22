@@ -1,7 +1,7 @@
 {
- "key": "a36c9e05",
+ "key": "870ecbaf",
  "stars": 12,
- "contributions": 2792,
+ "contributions": 2824,
  "repos": 58,
  "followers": 1,
  "languages": [
@@ -19,7 +19,7 @@
   ],
   [
    "Rust",
-   48427029
+   48861138
   ],
   [
    "C#",
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 27,
-    "day": 1,
-    "today": false
-   },
-   {
-    "c": 87,
-    "day": 2,
-    "today": false
-   },
-   {
-    "c": 157,
-    "day": 3,
-    "today": false
-   },
-   {
-    "c": 66,
-    "day": 4,
-    "today": false
-   },
-   {
-    "c": 41,
-    "day": 5,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 6,
-    "today": false
-   },
-   {
-    "c": 22,
-    "day": 7,
-    "today": false
-   }
-  ],
   [
    {
     "c": 95,
@@ -141,14 +104,27 @@
     "today": false
    },
    {
-    "c": 10,
+    "c": 41,
     "day": 21,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 22,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 3,
+  "current": 4,
   "longest": 48
  },
  "pins": [
@@ -392,7 +368,7 @@
    "text": "Прошивка Android и root с понятным интерфейсом: Rust-ядро (adb/fastboot) + Flutter, Material 3 Expressive",
    "fork": false,
    "stars": 0,
-   "language": "Dart",
+   "language": "Rust",
    "topics": [
     "adb",
     "android",
