@@ -1,25 +1,25 @@
 {
- "key": "acfeea38",
+ "key": "48f8dd24",
  "stars": 12,
- "contributions": 2851,
+ "contributions": 2862,
  "repos": 59,
  "followers": 1,
  "languages": [
   [
    "C",
-   122500211
+   122520996
   ],
   [
    "Java",
    83539851
   ],
   [
-   "C++",
-   56925683
+   "Rust",
+   57592409
   ],
   [
-   "Rust",
-   55823320
+   "C++",
+   56925683
   ],
   [
    "C#",
@@ -27,7 +27,7 @@
   ],
   [
    "Python",
-   9294205
+   9285863
   ],
   [
    "TypeScript",
@@ -121,11 +121,15 @@
     "today": false
    },
    {
-    "c": 13,
+    "c": 24,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
